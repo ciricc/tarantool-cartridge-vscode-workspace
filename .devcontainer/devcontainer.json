@@ -11,7 +11,8 @@
 		"vscode": {
 			"extensions": [
 				"sumneko.lua",
-				"tarantooldb.tarantool-lua-debugger"
+				"tarantooldb.tarantool-lua-debugger",
+				"vivaxy.vscode-conventional-commits"
 			]
 		}
 	}
