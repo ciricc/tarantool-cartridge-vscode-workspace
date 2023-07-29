@@ -1,0 +1,10 @@
+version: '3'
+services:
+  my-application:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    network_mode: host
+    volumes:
+      - ..:/workspace:cached
+    command: sleep infinity

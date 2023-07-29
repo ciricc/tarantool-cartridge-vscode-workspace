@@ -1,0 +1,6 @@
+{
+	"Lua.workspace.library": [
+		// Add tarantool library path (got from Dockerfile of the workspace image)
+		"/var/lib/vscode-tarantool"
+	],
+}

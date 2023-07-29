@@ -1,0 +1,12 @@
+{
+	"configurations": [
+		{
+			"type": "lua-tarantool",
+			"request": "launch",
+			"name": "Debug",
+			"program": {
+				"file": "${workspaceFolder}/init.lua"
+			}
+		}
+	]
+}
